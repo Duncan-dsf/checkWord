@@ -1,0 +1,72 @@
+type = 0
+type = 0 text = A
+42
+fontName 黑体
+fontSize 初号
+color 0
+type = 0
+type = 0 text = A
+36
+fontName 黑体
+fontSize 小初号
+color 0
+type = 0
+type = 0 text = a
+26
+fontName 黑体
+fontSize null
+color 0
+type = 0
+type = 0 text = a
+24
+fontName 黑体
+fontSize null
+color 0
+type = 0
+type = 0 text = a
+22
+fontName 黑体
+fontSize null
+color 0
+type = 0
+type = 0 text = a
+18
+fontName 黑体
+fontSize 小二号
+color 0
+type = 0
+type = 0 text = a
+16
+fontName 黑体
+fontSize 三号
+color 0
+type = 0
+type = 0 text = a
+15
+fontName 黑体
+fontSize null
+color 0
+type = 0
+type = 0 text = a
+14
+fontName 黑体
+fontSize 四号
+color 0
+type = 0
+type = 0 text = a
+12
+fontName 黑体
+fontSize 小四号
+color 0
+type = 0
+type = 0 text = a
+-1
+fontName 黑体
+fontSize null
+color 0
+type = 0
+type = 0 text = a
+9
+fontName 黑体
+fontSize 小五号
+color 0

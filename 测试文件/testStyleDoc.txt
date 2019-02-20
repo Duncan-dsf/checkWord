@@ -1,0 +1,1087 @@
+this file is doc
+styleIndex = 0
+paragraph type = 0
+run type = 1 text = A
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 0
+paragraph type = 0
+run type = 1 text = A
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = 默认段落字体无效
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 15
+paragraph type = 15
+run type = 1 text = A
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 1
+paragraph type = 1
+run type = 1 text = A
+fontName Times New Roman
+fontSize 二号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 二号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 二号
+color 0
+styleIndex = 2
+paragraph type = 2
+run type = 1 text = A
+fontName 等线 Light
+fontSize 三号
+color 0
+run type = 1 text = bcd
+fontName 等线 Light
+fontSize 三号
+color 0
+run type = 1 text =
+fontName 等线 Light
+fontSize 三号
+color 0
+styleIndex = 3
+paragraph type = 3
+run type = 1 text = A
+fontName Times New Roman
+fontSize 三号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 三号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 三号
+color 0
+styleIndex = 4
+paragraph type = 4
+run type = 1 text = A
+fontName 等线 Light
+fontSize 四号
+color 0
+run type = 1 text = bcd
+fontName 等线 Light
+fontSize 四号
+color 0
+run type = 1 text =
+fontName 等线 Light
+fontSize 四号
+color 0
+styleIndex = 5
+paragraph type = 5
+run type = 1 text = A
+fontName Times New Roman
+fontSize 四号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 四号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 四号
+color 0
+styleIndex = 6
+paragraph type = 6
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize 小四号
+color 0
+styleIndex = 7
+paragraph type = 7
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 小四号
+color 0
+styleIndex = 8
+paragraph type = 8
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize 小四号
+color 0
+styleIndex = 9
+paragraph type = 9
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize 五号
+color 0
+styleIndex = 101
+paragraph type = 101
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize 三号
+color 0
+styleIndex = 103
+paragraph type = 103
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 三号
+color 0
+styleIndex = 0
+paragraph type = 0
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 0
+paragraph type = 0
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 0
+paragraph type = 0
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 0
+paragraph type = 0
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 109
+paragraph type = 109
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 111
+paragraph type = 111
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 0
+paragraph type = 0
+run type = 1 text = 不明显参考
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 0
+paragraph type = 0
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 115
+paragraph type = 115
+run type = 1 text = 列表段落貌似无效
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 118
+paragraph type = 118
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 119
+paragraph type = 119
+run type = 1 text = T
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = oc
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = 1
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 120
+paragraph type = 120
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 121
+paragraph type = 121
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 122
+paragraph type = 122
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 123
+paragraph type = 123
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 124
+paragraph type = 124
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 125
+paragraph type = 125
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 126
+paragraph type = 126
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 127
+paragraph type = 127
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 128
+paragraph type = 128
+run type = 1 text = Toc标题
+fontName Times New Roman
+fontSize 二号
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 2
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName Courier New
+fontSize null
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName Courier New
+fontSize null
+color 0
+styleIndex = 133
+paragraph type = 133
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 2
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName Courier New
+fontSize null
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName Courier New
+fontSize null
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 140
+paragraph type = 140
+run type = 1 text = H
+fontName Courier New
+fontSize null
+color 0
+run type = 1 text = tml预设版式
+fontName Courier New
+fontSize null
+color 0
+run type = 1 text =
+fontName Courier New
+fontSize null
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 143
+paragraph type = 143
+run type = 1 text = 称呼
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 145
+paragraph type = 145
+run type = 1 text = Abcd
+fontName 等线
+fontSize 五号
+color 0
+styleIndex = 147
+paragraph type = 147
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 147
+paragraph type = 147
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 151
+paragraph type = 151
+run type = 1 text = Abcd
+fontName Courier New
+fontSize 小四号
+color 0
+styleIndex = 153
+paragraph type = 153
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize 五号
+color 0
+styleIndex = 154
+paragraph type = 154
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 小五号
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 0
+styleIndex = 157
+paragraph type = 157
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 116
+paragraph type = 116
+run type = 1 text = Abcd
+fontName 等线 Light
+fontSize null
+color 2
+styleIndex = 160
+paragraph type = 160
+run type = 1 text = 列表
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 161
+paragraph type = 161
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 162
+paragraph type = 162
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 20
+paragraph type = 20
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 163
+paragraph type = 163
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 17
+paragraph type = 17
+run type = 1 text = Abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 18
+paragraph type = 18
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 19
+paragraph type = 19
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 20
+paragraph type = 20
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 21
+paragraph type = 21
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 22
+paragraph type = 22
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 23
+paragraph type = 23
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 24
+paragraph type = 24
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 25
+paragraph type = 25
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 26
+paragraph type = 26
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 27
+paragraph type = 27
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 28
+paragraph type = 28
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 29
+paragraph type = 29
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 30
+paragraph type = 30
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 31
+paragraph type = 31
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 32
+paragraph type = 32
+run type = 1 text = a
+fontName Times New Roman
+fontSize 小五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 小五号
+color 0
+styleIndex = 34
+paragraph type = 34
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 32
+paragraph type = 32
+run type = 1 text = a
+fontName Times New Roman
+fontSize 小五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 小五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 37
+paragraph type = 37
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 39
+paragraph type = 39
+run type = 1 text = a
+fontName Times New Roman
+fontSize 小四号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 小四号
+color 0
+styleIndex = 40
+paragraph type = 40
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 42
+paragraph type = 42
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 44
+paragraph type = 44
+run type = 1 text = a
+fontName 等线 Light
+fontSize 小四号
+color 0
+run type = 1 text = bcd
+fontName 等线 Light
+fontSize 小四号
+color 0
+styleIndex = 45
+paragraph type = 45
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 46
+paragraph type = 46
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 47
+paragraph type = 47
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 48
+paragraph type = 48
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 49
+paragraph type = 49
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 50
+paragraph type = 50
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 51
+paragraph type = 51
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 52
+paragraph type = 52
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 53
+paragraph type = 53
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 54
+paragraph type = 54
+run type = 1 text = a
+fontName 等线 Light
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName 等线 Light
+fontSize 五号
+color 0
+styleIndex = 55
+paragraph type = 55
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 56
+paragraph type = 56
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 54
+paragraph type = 54
+run type = 1 text = a
+fontName 等线 Light
+fontSize 五号
+color 0
+run type = 1 text = bcd 尾注引用
+fontName 等线 Light
+fontSize 五号
+color 0
+styleIndex = 54
+paragraph type = 54
+run type = 1 text = a
+fontName 等线 Light
+fontSize 五号
+color 15
+run type = 1 text = bcd 未处理的提及
+fontName 等线 Light
+fontSize 五号
+color 15
+styleIndex = 60
+paragraph type = 60
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 61
+paragraph type = 61
+run type = 1 text = a
+fontName Microsoft YaHei UI
+fontSize 小五号
+color 0
+run type = 1 text = bcd
+fontName Microsoft YaHei UI
+fontSize 小五号
+color 0
+styleIndex = 63
+paragraph type = 63
+run type = 1 text = a
+fontName 等线 Light
+fontSize 小四号
+color 0
+run type = 1 text = bcd
+fontName 等线 Light
+fontSize 小四号
+color 0
+styleIndex = 65
+paragraph type = 65
+run type = 1 text = a
+fontName Times New Roman
+fontSize 小五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 小五号
+color 0
+styleIndex = 54
+paragraph type = 54
+run type = 1 text = abcd
+fontName 等线 Light
+fontSize 五号
+color 0
+run type = 1 text =
+fontName 等线 Light
+fontSize 五号
+color 0
+styleIndex = 68
+paragraph type = 68
+run type = 1 text = a
+fontName Times New Roman
+fontSize 小五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 小五号
+color 0
+styleIndex = 70
+paragraph type = 70
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 71
+paragraph type = 71
+run type = 1 text = a
+fontName 等线 Light
+fontSize 小四号
+color 0
+run type = 1 text = bcd
+fontName 等线 Light
+fontSize 小四号
+color 0
+styleIndex = 70
+paragraph type = 70
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 15
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 15
+run type = 1 text = 占位符文本
+fontName Times New Roman
+fontSize 五号
+color 15
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 15
+styleIndex = 73
+paragraph type = 73
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 74
+paragraph type = 74
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 76
+paragraph type = 76
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 78
+paragraph type = 78
+run type = 1 text = a
+fontName Times New Roman
+fontSize null
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize null
+color 0
+styleIndex = 80
+paragraph type = 80
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 84
+paragraph type = 84
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 82
+paragraph type = 82
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 86
+paragraph type = 86
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 88
+paragraph type = 88
+run type = 1 text = a
+fontName Times New Roman
+fontSize null
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize null
+color 0
+styleIndex = 82
+paragraph type = 82
+run type = 1 text = abcd
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 91
+paragraph type = 91
+run type = 1 text = a
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text = bcd
+fontName Times New Roman
+fontSize 五号
+color 0
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
+styleIndex = 45
+paragraph type = 45
+run type = 1 text =
+fontName Times New Roman
+fontSize 五号
+color 0
